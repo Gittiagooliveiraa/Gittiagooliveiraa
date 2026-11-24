@@ -26,6 +26,6 @@ Inglês intermediário, em constante desenvolvimento.
 </p>
 
 ### 📫 Contato
-[LinkedIn](linkedin.com/in/tiago-oliveira-ads)
+[LinkedIn](https://www.linkedin.com/in/tiago-oliveira-ads)
 
           
