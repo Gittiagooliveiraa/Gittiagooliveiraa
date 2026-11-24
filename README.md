@@ -1,7 +1,14 @@
 # 👨‍💻 Tiago Oliveira
 **`Em busca da primeira oportunidade em TI`**
 
-Formado em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco, atuo na área administrativa hospitalar e estou em transição para TI. Tenho interesse em dados e BI, suporte técnico, QA e automação. Construo projetos práticos com SQL, Python e Power BI para resolver problemas reais. Inglês intermediário, em evolução.
+
+Formado em Análise e Desenvolvimento de Sistemas, atualmente atuo na área administrativa hospitalar e estou em transição para TI.
+
+Tenho interesse em Dados e BI, Qualidade de Dados, Suporte Técnico, QA e Automação. Desenvolvo projetos práticos utilizando SQL, Python e Power BI, buscando aplicar conhecimentos técnicos na resolução de problemas reais.
+
+Inglês intermediário, em constante desenvolvimento.
+
+📊 **Projeto em destaque:** [Análise de Performance Logística (SLA)](https://github.com/Gittiagooliveiraa/logistica-analise-sla)
 
 ### 📊 Projetos em destaque
 - [Análise de performance logística (SLA)](https://github.com/Gittiagooliveiraa/logistica-analise-sla): SQL, Python e Power BI
